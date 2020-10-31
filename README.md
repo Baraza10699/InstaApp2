@@ -1,8 +1,8 @@
-# Project 3 - * InstaApp2*
+# Project 3 -  InstaApp2
 
-** InstaApp2** is a photo sharing app similar to Instagram but using Parse as its backend.
+InstaApp2 is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **4** hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
@@ -34,13 +34,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='InstaApp2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some challenges implementing the stretch stories.
 
 ## Open-source libraries used
 
